@@ -27,33 +27,32 @@ Este projeto está sendo desenvolvido durante a semana do evento.<br /><br />
 </div>
 
 ## :dart: Local Setup
-Você pode fazer o git clone para clonar o repo em sua máquina.
+Use o comando git clone para clonar o repo em sua máquina:
   
 ```bash
 git clone https://github.com/JuniorCundari/nlw-spacetime.git
 ```
-  
-<br />
-Vale destacar que é necessario iniciar o server para que os projetos web e mobile funcione perfeitamente.</br></br>
+#
+Vale destacar que é necessario iniciar o server para que os projetos web e mobile funcione perfeitamente.
 Lembre-se de baixar/atualizar as dependências do projeto com:
 
 ```bash
+cd nomedapasta
 npm i
 ```
-
----
+#
 ### Server
 Para rodar o projeto server basta utilizar o comando.
 ```bash
 npm run dev
 ```
----
+#
 ### Web
 Para rodar o projeto na versão web basta utilizar o comando.
 ```bash
 npm run dev
 ```
----
+#
 ### Mobile
 Lembrando que é importante iniciar o simulador mobile antes de executar o comando.<br />
 Para rodar o projeto na versão mobile basta utilizar o comando.
