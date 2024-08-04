@@ -30,7 +30,7 @@ Este projeto está sendo desenvolvido durante a semana do evento.<br /><br />
 Use o comando git clone para clonar o repo em sua máquina:
   
 ```bash
-git clone https://github.com/JuniorCundari/nlw-spacetime.git
+git clone https://github.com/Edlavio/nlw-spacetime.git
 ```
 #
 Vale destacar que é necessario iniciar o server para que os projetos web e mobile funcione perfeitamente.
